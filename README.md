@@ -16,6 +16,9 @@ https://msoe-maic.com/library/?article=Rockwell-NVIDIA-Fall-2026-Compute
 ``Isaac sim Brev tutorial``
 https://msoe-maic.com/library/?article=Rockwell-NVIDIA-Fall-2026-Resources
 
+``Dataset Generation``
+https://docs.isaacsim.omniverse.nvidia.com/latest/replicator_tutorials/tutorial_replicator_scene_based_sdg.html
+
 ``Bonus Tools list and guide``
 https://msoe-maic.com/library/?article=Rockwell-NVIDIA-Fall-2026-Resources
 
