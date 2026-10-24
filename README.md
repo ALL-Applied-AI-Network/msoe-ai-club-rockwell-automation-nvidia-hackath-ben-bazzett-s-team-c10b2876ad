@@ -19,7 +19,8 @@ https://msoe-maic.com/library/?article=Rockwell-NVIDIA-Fall-2026-Resources
 ``Bonus Tools list and guide``
 https://msoe-maic.com/library/?article=Rockwell-NVIDIA-Fall-2026-Resources
 
-https://isaac-sim.github.io/IsaacLab/main/source/isaaclab/installation.html----
+https://isaac-sim.github.io/IsaacLab/main/source/isaaclab/installation.html 
+----
 
 482-31-9884
 
