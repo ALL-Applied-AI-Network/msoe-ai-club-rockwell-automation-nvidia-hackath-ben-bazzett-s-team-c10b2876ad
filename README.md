@@ -12,8 +12,10 @@ https://drive.google.com/drive/folders/1GWuHV2WUNLztq_Fga6xBH7qFzhxDaac8
 
 ``Compute guide(Brev)``
 https://msoe-maic.com/library/?article=Rockwell-NVIDIA-Fall-2026-Compute
+
 ``Isaac sim Brev tutorial``
 https://msoe-maic.com/library/?article=Rockwell-NVIDIA-Fall-2026-Resources
+
 
 This is your team's repository for the four-week physical AI hackathon run by Rockwell Automation, NVIDIA, the MSOE AI Club and UWM's Connected Systems Institute. Build everything here. Sponsors can follow your work as it progresses, and your final submission links straight to this repository.
 
