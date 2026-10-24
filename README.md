@@ -1,6 +1,6 @@
 # Rockwell Automation + NVIDIA Innovation Lab · Fall 2026
 
-``test test test``
+https://drive.google.com/drive/folders/1GWuHV2WUNLztq_Fga6xBH7qFzhxDaac8
 
 
 This is your team's repository for the four-week physical AI hackathon run by Rockwell Automation, NVIDIA, the MSOE AI Club and UWM's Connected Systems Institute. Build everything here. Sponsors can follow your work as it progresses, and your final submission links straight to this repository.
