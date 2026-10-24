@@ -16,6 +16,11 @@ https://msoe-maic.com/library/?article=Rockwell-NVIDIA-Fall-2026-Compute
 ``Isaac sim Brev tutorial``
 https://msoe-maic.com/library/?article=Rockwell-NVIDIA-Fall-2026-Resources
 
+``Bonus Tools list and guide``
+https://msoe-maic.com/library/?article=Rockwell-NVIDIA-Fall-2026-Resources
+
+----
+
 482-31-9884
 
 
