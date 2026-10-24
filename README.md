@@ -19,7 +19,7 @@ https://msoe-maic.com/library/?article=Rockwell-NVIDIA-Fall-2026-Resources
 ``Bonus Tools list and guide``
 https://msoe-maic.com/library/?article=Rockwell-NVIDIA-Fall-2026-Resources
 
-https://github.com/isaac-sim/isaac-launchable/blob/main/isaac-lab/vscode/README.md
+https://docs.isaacsim.omniverse.nvidia.com/6.0.1/installation/install_advanced_cloud_setup_launchable.html
 ----
 
 482-31-9884
