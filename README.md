@@ -3,10 +3,13 @@ Bonus links for OUR team;
 
 ``Dataset 1 basic info``
 https://msoe-maic.com/library/?article=Rockwell-NVIDIA-Fall-2026-Vial-Inspection
+
 ``Collect and test our own dataset``
 https://msoe-maic.com/library/?article=Rockwell-NVIDIA-Fall-2026-Data-Collection
+
 ``Digital twin file and vial dataset link``
 https://drive.google.com/drive/folders/1GWuHV2WUNLztq_Fga6xBH7qFzhxDaac8
+
 ``Compute guide(Brev)``
 https://msoe-maic.com/library/?article=Rockwell-NVIDIA-Fall-2026-Compute
 ``Isaac sim Brev tutorial``
