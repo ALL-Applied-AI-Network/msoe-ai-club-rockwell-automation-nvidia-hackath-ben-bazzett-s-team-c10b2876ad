@@ -1,6 +1,7 @@
 # Rockwell Automation + NVIDIA Innovation Lab · Fall 2026
 
 How to start up the portforwarded application:
+
 1.) open the brev instance in vscode then in the terminal cd into the csi-training directory
 
 2.) after being in the directory run the line python3 vial_crop_labeler.py   --root crops_all   --frames-per-day 50   --host 0.0.0.0   --port 8000. 
